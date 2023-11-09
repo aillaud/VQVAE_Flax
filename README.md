@@ -3,7 +3,7 @@
 This repository contains my implementation of various autoencoder models in Flax:
 * [The first notebook](./Autoencoders_VAE_MNIST_JaxvPyTorch.ipynb) implements a vanilla autoencoder and a Variational AutoEncoder (VAE) on MNIST, with a comparison of the latent space representation in 2D. <br>
   The models are also implemented in PyTorch for comparison
-* [The second notebook](./VQ-VAE_Flax.ipynb) implements two methods to train the codebook of a Vector Quantised-Variational AutoEncoder, also provided in two standalone python files
+* [The second notebook](./VQ-VAE_Flax.ipynb) implements two methods to train the codebook of a Vector Quantised-Variational AutoEncoder on CIFAR-10, also provided in two standalone python files
 
 
 ## References
